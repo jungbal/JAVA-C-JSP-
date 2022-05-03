@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="녹색배경"
+        android:id="@+id/itemGreen"/>
+    <item android:title="하얀색(원래대로)"
+        android:id="@+id/itemWhite"/>
+
+</menu>
