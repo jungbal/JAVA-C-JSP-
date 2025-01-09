@@ -1,2 +1,1 @@
-# projects
-c project
+숭실대학교 글로벌미래교육원 강의 실습 내용
